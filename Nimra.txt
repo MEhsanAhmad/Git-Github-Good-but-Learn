@@ -1,0 +1,3 @@
+Name:           Nimrqa
+Area:           Lahore
+country:        Pakistan
